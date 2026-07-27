@@ -36,6 +36,10 @@ The creator ID "Animius" became effective at **2026-07-27 18:29:28 (UTC+8)**.
 
 "Animius" is a creator pen name (署名), not a registered trademark. It is used solely for attribution purposes to identify the original author of the creative works hosted in these repositories.
 
+### Notice on Iteration Schemes
+
+Multiple early website drafts and design prototypes contain alternative display layouts of the pseudonym "Animius". These are only internal design attempts and test versions. All officially released public products and the official website stable version adopt the final layout: **Animius is only used as an author signature for copyright attribution, and shall not be displayed as a prominent brand logo on the homepage, game startup screen, or commercial promotion cover.**
+
 ---
 
 ## 中文版
@@ -73,6 +77,10 @@ GitHub 账号 **User-123401** 的运营者为创作者 **Animius**。
 ### 重要说明
 
 "Animius" 是创作者署名（非注册商标），仅用于标识这些仓库中原创作品的作者身份。
+
+### 关于迭代方案的声明
+
+多个早期网站草稿和设计原型中包含署名 "Animius" 的不同展示布局。这些仅为内部设计尝试和测试版本。所有正式发布的公开产品及官方网站稳定版均采用最终布局：**Animius 仅用作版权归属的作者署名，不得作为显著品牌标识展示于首页、游戏启动画面或商业宣传封面。**
 
 ---
 
