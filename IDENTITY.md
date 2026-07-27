@@ -14,11 +14,11 @@ I hereby declare the following identity mapping:
 
 ### Statement
 
-The GitHub account **User-123401** is operated by the creator known as **Animius**.
+**1.** The GitHub account **User-123401** is exclusively owned and operated by the creator known as **Animius**. Ownership of this account belongs solely to the creator.
 
-All repositories under this GitHub account that contain the "Animius" signature, copyright notices, or worldview content (including but not limited to "animius-official", "animius-license-records") are original works created by Animius.
+**2.** "Animius" is the creator's exclusive pen name, first activated at **2026-07-27 18:29:28 (UTC+8)**. It is used solely for copyright attribution and is not a registered trademark.
 
-The creator ID "Animius" became effective at **2026-07-27 18:29:28 (UTC+8)**.
+**3.** All repositories under this GitHub account that contain the "Animius" signature, copyright notices, or worldview content (including but not limited to "animius-official", "animius-license-records") are original works created by Animius.
 
 ### Verification Methods
 
@@ -58,11 +58,11 @@ Multiple early website drafts and design prototypes contain alternative display 
 
 ### 说明
 
-GitHub 账号 **User-123401** 的运营者为创作者 **Animius**。
+**1.** GitHub 账号 **User-123401** 的所有权归属于创作者 **Animius** 本人，该账号由本人独家运营。
 
-该 GitHub 账号下所有包含 "Animius" 署名、版权声明或世界观内容的仓库（包括但不限于 "animius-official"、"animius-license-records"）均为 Animius 原创作品。
+**2.** "Animius" 是本人专属创作笔名，首次启用时间为 **2026-07-27 18:29:28 (UTC+8)**。该笔名仅用于版权归属署名，非注册商标。
 
-创作者 ID "Animius" 自 **2026-07-27 18:29:28 (UTC+8)** 起生效。
+**3.** 该 GitHub 账号下所有包含 "Animius" 署名、版权声明或世界观内容的仓库（包括但不限于 "animius-official"、"animius-license-records"）均为 Animius 原创作品。
 
 ### 验证方式
 
