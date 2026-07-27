@@ -51,3 +51,8 @@ CSS 代码为 Animius 项目自有创作，不存在第三方版权问题。
 
 © 2026 Animius · 烈火不息 · All Rights Reserved
 ID effective from 2026-07-27 18:29:28 (UTC+8)
+
+## Identity Verification
+
+Creator ID Animius corresponds to GitHub account [User-123401](https://github.com/User-123401).
+See [IDENTITY.md](./IDENTITY.md) for the full identity declaration with timestamped proof.
