@@ -1,0 +1,82 @@
+# Identity Declaration · 身份声明
+
+## English
+
+I hereby declare the following identity mapping:
+
+| Item | Value |
+|------|-------|
+| **Creator ID** | Animius |
+| **GitHub Username** | User-123401 |
+| **GitHub Profile** | https://github.com/User-123401 |
+| **Declaration Date** | 2026-07-27 20:09:05 UTC+8 |
+| **Declaration Date (UTC)** | 2026-07-27T12:09:05Z |
+
+### Statement
+
+The GitHub account **User-123401** is operated by the creator known as **Animius**.
+
+All repositories under this GitHub account that contain the "Animius" signature, copyright notices, or worldview content (including but not limited to "animius-official", "animius-license-records") are original works created by Animius.
+
+The creator ID "Animius" became effective at **2026-07-27 18:29:28 (UTC+8)**.
+
+### Verification Methods
+
+1. **GitHub commit history** — All commits in this repository carry immutable server-side timestamps that prove the creator was using this GitHub account at the time of declaration.
+
+2. **Cross-repository consistency** — The same creator ID "Animius" appears consistently across all related repositories:
+   - `animius-official` — Main website
+   - `animius-license-records` — License audit records
+
+3. **Repository creation timeline** — The earliest commits in each repository establish when the creator first published these works under the Animius ID.
+
+4. **Content continuity** — The creative content (worldview, copyright declarations, development materials) is consistent across all repositories and predates this identity declaration, proving the same person created all of them.
+
+### Important Note
+
+"Animius" is a creator pen name (署名), not a registered trademark. It is used solely for attribution purposes to identify the original author of the creative works hosted in these repositories.
+
+---
+
+## 中文版
+
+### 身份声明
+
+本人在此声明以下身份对应关系：
+
+| 项目 | 内容 |
+|------|------|
+| **创作者 ID** | Animius |
+| **GitHub 用户名** | User-123401 |
+| **GitHub 主页** | https://github.com/User-123401 |
+| **声明时间** | 2026-07-27 20:09:05 UTC+8 |
+| **声明时间 (UTC)** | 2026-07-27T12:09:05Z |
+
+### 说明
+
+GitHub 账号 **User-123401** 的运营者为创作者 **Animius**。
+
+该 GitHub 账号下所有包含 "Animius" 署名、版权声明或世界观内容的仓库（包括但不限于 "animius-official"、"animius-license-records"）均为 Animius 原创作品。
+
+创作者 ID "Animius" 自 **2026-07-27 18:29:28 (UTC+8)** 起生效。
+
+### 验证方式
+
+1. **GitHub 提交历史** — 本仓库所有 commit 携带不可篡改的服务器端时间戳，证明创作者在该时间点已使用此 GitHub 账号。
+
+2. **跨仓库一致性** — 同一创作者 ID "Animius" 在所有相关仓库中一致出现。
+
+3. **仓库创建时间线** — 各仓库最早的 commit 确立了创作者首次以 Animius ID 发布作品的时间。
+
+4. **内容连贯性** — 创作内容（世界观、版权声明、开发素材）在所有仓库中保持一致，且早于本身份声明，证明所有作品出自同一人。
+
+### 重要说明
+
+"Animius" 是创作者署名（非注册商标），仅用于标识这些仓库中原创作品的作者身份。
+
+---
+
+© 2026 Animius · 烈火不息 · All Rights Reserved
+ID effective from 2026-07-27 18:29:28 (UTC+8)
+Identity declared: 2026-07-27 20:09:05 UTC+8
+GitHub account: User-123401
